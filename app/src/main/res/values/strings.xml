@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Inspiring Quotes</string>
+    <string name="quote_hint">Quote</string>
+    <string name="author_hint">Author</string>
+    <string name="save">Save</string>
+    <string name="fetch">Fetch</string>
+    <string name="quote">Here goes the quote</string>
+</resources>

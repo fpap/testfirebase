@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1036583572489",
+    "firebase_url": "https://test-app-7debc.firebaseio.com",
+    "project_id": "test-app-7debc",
+    "storage_bucket": "test-app-7debc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1036583572489:android:de369053c6087790",
+        "android_client_info": {
+          "package_name": "com.example.inspiringquotes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1036583572489-pteh402i68o6fpun5t8lea25km98akeh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.inspiringquotes",
+            "certificate_hash": "33504370239f41235368034b3b02b469bd52d0a6"
+          }
+        },
+        {
+          "client_id": "1036583572489-fvbtgjnk4o6thuuucud0bme7o7l3mtt0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQx4U8oq2Ry4FEwm_8ijpbLmT9NyaUly4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1036583572489-fvbtgjnk4o6thuuucud0bme7o7l3mtt0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
